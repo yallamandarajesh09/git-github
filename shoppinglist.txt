@@ -10,3 +10,4 @@ guavas
 papayas
 walnuts
 avacados
+xiaomi redmi K20
