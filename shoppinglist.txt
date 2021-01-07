@@ -7,3 +7,4 @@ strawberries
 pineapples
 custardapples
 guavas
+papayas
