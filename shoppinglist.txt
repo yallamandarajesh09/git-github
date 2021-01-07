@@ -8,3 +8,5 @@ pineapples
 custardapples
 guavas
 papayas
+walnuts
+avacados
